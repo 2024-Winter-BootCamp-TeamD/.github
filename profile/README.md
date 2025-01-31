@@ -114,7 +114,9 @@ Refactory는 AI를 활용하여 자동화된 코드 리뷰를 제공함으로써
 
 ---
 ## 🐳 Medium  
-[🔗 미디움 URL](https://medium.com/@syt47053052/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC-%EC%9C%88%ED%84%B0-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84-%ED%8C%80-d-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A6%AC-9e1e6c41c940)
+
+[🔗 Refactory Medium](https://medium.com/@syt47053052/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC-%EC%9C%88%ED%84%B0-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84-%ED%8C%80-d-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A6%AC-9e1e6c41c940)
+
 ---
 
 ## 🛠 시스템 아키텍처  
