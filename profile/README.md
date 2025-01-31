@@ -1,15 +1,16 @@
-<div align="center">
-  
-# ⚙️ <span style="font-size: 50px;">**Refactory**</span> ⚙️
-
-![Group 324](https://github.com/user-attachments/assets/29863109-ded5-4e0f-b297-c759c3adffeb)
-
-## <span style="font-size: 30px;">Review Smarter, Code Better
+<h1 align="center">
+    ⚙️ AI 코드 리뷰 자동화 및 분석 서비스 “REFACTORY” ⚙️
+</h1>
+<div align="center" style="font-size:18px"> 
 <br>
-<br>
-</span>
+<b>Review Smarter, Code Better</b> </div>
+<p align="center">
 
-</div>
+</p>
+
+<p align="center">
+  <img width="800" alt=“REFACTORY 로고" src="https://github.com/user-attachments/assets/29863109-ded5-4e0f-b297-c759c3adffeb">
+</p>
 
 
 ## 📖 목차  
