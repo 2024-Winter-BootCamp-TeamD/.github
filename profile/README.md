@@ -1,11 +1,16 @@
 <div align="center">
   
-# ⚙️  **Refactory**  ⚙️
-AI 기반 코드 리뷰 자동화 솔루션  
+# ⚙️ <span style="font-size: 50px;">**Refactory**</span> ⚙️
+
+![Group 324](https://github.com/user-attachments/assets/29863109-ded5-4e0f-b297-c759c3adffeb)
+
+## <span style="font-size: 30px;">Review Smarter, Code Better
+<br>
+<br>
+</span>
 
 </div>
 
----
 
 ## 📖 목차  
 - [서비스 소개](#-서비스-소개)  
