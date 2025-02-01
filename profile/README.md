@@ -3,6 +3,9 @@
 </h1>
 <div align="center" style="font-size:18px"> 
 <br>
+
+<b>🎉 2024 Techeer Winter BootCamp 공동 3등 🎉
+    
 <b>Review Smarter, Code Better</b> </div>
 <p align="center">
 
