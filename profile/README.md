@@ -220,7 +220,7 @@ git clone https://github.com/2024-Winter-BootCamp-TeamD/review-Frontend.git
 ```
 
 ```bash
-npm i
+npm init
 npm run build
 ```
 
